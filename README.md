@@ -29,7 +29,7 @@ Die **MAMUTOSKI v6.3** ist eine hybride kryptografische Architektur, entwickelt 
 
 ---
 
-## About the Architect: Adnan Mamutoski,41 Years
+## About the Architect: Adnan Mamutoski, 41 Years
 **Bridging the Gap between Shop Floor and Top Floor.**
 
 Ich bin ein erfahrener **Industrial Professional (Foreman, Material Supervisor)** mit über 10 Jahren operativer Erfahrung bei **BASF** und **EnBW**. Ich verbinde tiefes Verständnis für Industrieanlagen (OT) mit autodidaktischer High-End-Expertise in Kryptografie und IT-Security.
