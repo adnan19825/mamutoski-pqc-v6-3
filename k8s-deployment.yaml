@@ -1,0 +1,13 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: mamutoski-pqc-node
+spec:
+  template:
+    spec:
+      containers:
+      - name: pqc-engine
+        image: mamutoski/pqc-suite:v6.3
+        env:
+        - name: FIPS_MODE
+          value: "1"
